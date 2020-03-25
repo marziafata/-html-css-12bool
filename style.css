@@ -5,7 +5,11 @@
 }
 
 .col-1 {
-    height: 42.5px;
+    height: 48.75px;
+}
+
+.box {
+    height: 1170px;
 }
 
 .white {
