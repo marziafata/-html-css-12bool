@@ -8,8 +8,8 @@
     height: 48.75px;
 }
 
-.box {
-    height: 1170px;
+.container {
+    background-color: pink;
 }
 
 .white {
