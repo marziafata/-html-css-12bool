@@ -15,6 +15,7 @@
     content: "";
 }
 
+
 [class*="col-"] {
     float: left;
 }
